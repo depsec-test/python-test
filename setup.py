@@ -8,7 +8,6 @@ with open('requirements.txt', 'r') as fd_requirements:
     for dependency in fd_requirements:
         dependencies.append(dependency.strip())
 
-
 setup(
     name="python-test",
     packages=find_packages(),
