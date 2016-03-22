@@ -11,3 +11,5 @@ easyimap>=0.6.3
 madmom
 noetic
 Django==1.9.1
+anotherUnknownDeps
+
