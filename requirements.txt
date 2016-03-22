@@ -12,4 +12,4 @@ madmom
 noetic
 Django==1.9.1
 anotherUnknownDeps
-
+Toto==2.0
