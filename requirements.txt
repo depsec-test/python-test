@@ -10,6 +10,6 @@ impacket==0.9.12
 easyimap>=0.6.3
 madmom
 noetic
-django==1.8.0
+django==1.9.0
 anotherUnknownDeps
 Toto==2.0
